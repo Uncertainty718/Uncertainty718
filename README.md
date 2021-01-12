@@ -11,7 +11,7 @@ LANGUAGES:
 - Russian - Native 
 - English - Advanced 
 
-I'm looking forward to work in Data Scince sphere and use my Finance kwoledge to generate great ideas! 
+I'm looking forward to work in Data Scince sphere and use my Finance knowledge to generate great ideas! 
 
 IT related skills: 
 - Python, SQL, Bash 
