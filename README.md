@@ -8,8 +8,8 @@ WORKING EXPERIENCE:
 Accountant Assistant - "Intera" Ltd (2018)
 
 LANGUAGES: 
-Russian - Native 
-English - Advanced 
+- Russian - Native 
+- English - Advanced 
 
 I'm looking forward to work in Data Scince sphere and use my Finance kwoledge to generate great ideas! 
 
