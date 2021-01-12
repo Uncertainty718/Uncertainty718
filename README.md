@@ -1,4 +1,4 @@
-### Hell :wave: Here's my brief background:
+### Hello :wave: Here's my brief background:
 
 :books: EDUCATION: :books: 
 1. Bachelor, Finance faculty - Russian University of Economics named after G.V. Plekhanov (2016 - 2020)
