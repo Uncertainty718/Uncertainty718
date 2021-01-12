@@ -13,9 +13,6 @@ LANGUAGES:
 
 I'm looking forward to work in Data Scince sphere and use my Finance knowledge to generate great ideas! 
 
-IT related skills: 
+:computer:IT related skills: :computer:
 - Python, SQL, Bash 
 - Data Visualization, Machine Learning
-
-📫 How to reach me: ...
-
