@@ -5,7 +5,7 @@ EDUCATION:
 2. Master,  Banks, finance and investments faculty - Russian Presidentual Academy of National Economy and Public Administration (2020 - nowdays)
 
 WORKING EXPERIENCE: 
-Accountant Assistant - "Intera" Ltd (2018)
+- Accountant Assistant - "Intera" Ltd (2018)
 
 LANGUAGES: 
 - Russian - Native 
@@ -14,8 +14,8 @@ LANGUAGES:
 I'm looking forward to work in Data Scince sphere and use my Finance kwoledge to generate great ideas! 
 
 IT related skills: 
-Python, SQL, Bash 
-Data Visualization, Machine Learning
+- Python, SQL, Bash 
+- Data Visualization, Machine Learning
 
 - 📫 How to reach me: ...
 
