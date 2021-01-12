@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello! Here's my brief background:
 
-<!--
-**Uncertainty718/Uncertainty718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EDUCATION: 
+1. Bachelor, Finance faculty - Russian University of Economics named after G.V. Plekhanov (2016 - 2020)
+2. Master,  Banks, finance and investments faculty - Russian Presidentual Academy of National Economy and Public Administration (2020 - nowdays)
 
-Here are some ideas to get you started:
+WORKING EXPERIENCE:
+Accountant Assistant - "Intera" Ltd (2018)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+LANGUAGES:
+Russian - Native
+English - Advanced
+
+I'm looking forward to work in Data Scince sphere and use my Finance kwoledge to generate great ideas!
+
+IT related skills:
+Python, SQL, Bash
+Data Visualization, Machine Learning
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
