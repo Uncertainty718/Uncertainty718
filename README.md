@@ -17,5 +17,5 @@ IT related skills:
 - Python, SQL, Bash 
 - Data Visualization, Machine Learning
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
 
